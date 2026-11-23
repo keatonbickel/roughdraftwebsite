@@ -1,0 +1,59 @@
+
+.project1 {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+.project2 {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+li {
+    list-style-type: none;
+    float: left;
+    border-right-color: #bbb;
+    border-right-width: 1px;
+    border-right-style: solid;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    background-color: crimson;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.divider {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.image-center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+}
+
+.border {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+ul {
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
